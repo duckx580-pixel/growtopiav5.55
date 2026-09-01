@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Growtopia Launcher</string>
+    <string name="launch_button_label">Launch</string>
+    <string name="growtopia_not_installed">Growtopia isn\'t installed. Opening the store…</string>
+</resources>
